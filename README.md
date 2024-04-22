@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm NotToxicity and I'm from Poland.
+I'm currently learning python and I also like playing minecraft
+
+
+
+
 
 <!--
 **ProbablyNotToxicity/ProbablyNotToxicity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
