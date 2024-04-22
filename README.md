@@ -4,7 +4,7 @@ Hi 👋 My name is NotToxicity
 ============================
 I'm Polish and im currently learning python
 ### Skills 
-                    
+- Python                    
 ### Socials
                   
                   
