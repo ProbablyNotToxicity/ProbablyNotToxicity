@@ -2,7 +2,7 @@
 
 Hi 👋 My name is NotToxicity
 ============================
-I'm Polish and im currently learning python
+I'm Polish and im currently learning python and skript
 ### Skills 
 - Python                    
 ### Socials
