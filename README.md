@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm NotToxicity and I'm from Poland.
-I'm currently learning python and I also like playing minecraft
+# I'm NotToxicity and I'm from Poland.
+# I'm currently learning python and I also like playing minecraft
 
 
 
