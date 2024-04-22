@@ -4,15 +4,12 @@ Hi 👋 My name is NotToxicity
 ============================
 I'm Polish and im currently learning python
 ### Skills 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                    </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
-                      <a href="https://discord.com/users/probablynottoxicity" target="_blank" rel="noreferrer">
+<p align="left">
+              <a href="https://discord.com/users/probablynottoxicity" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
